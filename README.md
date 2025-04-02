@@ -1,4 +1,3 @@
-# windev7.github.io
-Welcome to my site!
+# Welcome to my website
 
 this site is still in beta
